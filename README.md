@@ -98,7 +98,10 @@ The project has two parts:
 
 # 📸 Demo
 
-*Add screenshots or a short screen recording of the deck list, the generation flow, and the flip-card review screen here.*
+<img width="540" height="1158" alt="WhatsApp Image 2026-07-24 at 4 01 07 PM" src="https://github.com/user-attachments/assets/eea2fdf4-0952-49c7-8783-6a5fb0b624a9" />
+
+<img width="540" height="1143" alt="WhatsApp Image 2026-07-24 at 3 57 23 PM" src="https://github.com/user-attachments/assets/559eaf0f-e4ab-4fba-9a6b-b27cd3f5eff8" />
+
 
 ---
 
