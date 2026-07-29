@@ -6,9 +6,9 @@
 
 | Field            | Value                                |
 | ---------------- | ------------------------------------ |
-| Full Name        |                                       |
+| Full Name        |       TubeCards                      |
 | Project Name     | YouTube Flashcards                   |
-| GitHub Username  |                                       |
+| GitHub Username  |         mb12120                      |
 | Challenge Batch  | June–July 2026                       |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en) |
